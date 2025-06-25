@@ -76,6 +76,9 @@
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
 }
+ion-menu-button {
+  --color: #ffffff; /* Cambia este color por el que prefieras */
+}
 .sc-ion-label-md-s>p {
 color: var(--ion-color-step-600, #000000); /* Cambia el color del texto en la
 descripcion de los productos */
